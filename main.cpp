@@ -68,7 +68,8 @@ int main()
             {
                     cout<<board[r][c];
                     cout<<" ";
-            }        
+            }
+            cout<<"\n";
     }
     //TODO: Print the current board
     //Outline
